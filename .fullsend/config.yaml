@@ -10,3 +10,6 @@ tracker:
                 - fullsend-ai/fullsend
                 - fullsend-ai/agents
 runtime: pi
+agents:
+    - name: pi-smoke
+      source: harness/pi-smoke.yaml
